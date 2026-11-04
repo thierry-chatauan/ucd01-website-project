@@ -1,4 +1,4 @@
-First project in my UCD - Full Stack Web Development course using HTML, CSS and JavaScript
+First project in my UCD - Full Stack Web Development course using HTML, CSS
 
 Project deployed on github pages
 
